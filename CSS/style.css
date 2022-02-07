@@ -222,6 +222,7 @@ h3{
     margin: 5%;
     padding: 5%;
     line-height: 200%;
+    border-radius: 25%;
 }
 /*Main Productos*/
 .tituloFaq, .tituloProductos{
@@ -441,7 +442,7 @@ h3{
         .indexSecDos div{
             flex-wrap: wrap;
             width: 80%;
-
+            justify-content: center;
         }
         .indexSecDos img{
             width: 350px;
